@@ -1,0 +1,5 @@
+C:\Users\VISHAL\source\repos\Address bookUc2\Address bookUc2\obj\Debug\net5.0\Address bookUc2.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\Address bookUc2\Address bookUc2\obj\Debug\net5.0\Address bookUc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Address bookUc2\Address bookUc2\obj\Debug\net5.0\Address bookUc2.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Address bookUc2\Address bookUc2\obj\Debug\net5.0\Address bookUc2.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Address bookUc2\Address bookUc2\obj\Debug\net5.0\Address bookUc2.csproj.CoreCompileInputs.cache
