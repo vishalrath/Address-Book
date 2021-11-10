@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\bin\Debug\net5.0\Address Book uc3.exe
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\bin\Debug\net5.0\Address Book uc3.deps.json
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\bin\Debug\net5.0\Address Book uc3.runtimeconfig.json
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\bin\Debug\net5.0\Address Book uc3.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\bin\Debug\net5.0\Address Book uc3.dll
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\bin\Debug\net5.0\ref\Address Book uc3.dll
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\bin\Debug\net5.0\Address Book uc3.pdb
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.dll
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\ref\Address Book uc3.dll
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.pdb
+C:\Users\VISHAL\source\repos\Address Book uc3\Address Book uc3\obj\Debug\net5.0\Address Book uc3.genruntimeconfig.cache
