@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Address Book Uc6/1.0.0": {
+        "runtime": {
+          "Address Book Uc6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Address Book Uc6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
