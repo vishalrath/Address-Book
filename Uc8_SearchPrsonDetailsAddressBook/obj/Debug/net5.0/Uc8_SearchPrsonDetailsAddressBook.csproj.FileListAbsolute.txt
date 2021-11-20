@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\bin\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.exe
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\bin\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.deps.json
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\bin\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\bin\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\bin\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.dll
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\bin\Debug\net5.0\ref\Uc8_SearchPrsonDetailsAddressBook.dll
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\bin\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.pdb
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.dll
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\ref\Uc8_SearchPrsonDetailsAddressBook.dll
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.pdb
+C:\Users\Vishal\source\repos\Uc8_SearchPrsonDetailsAddressBook\Uc8_SearchPrsonDetailsAddressBook\obj\Debug\net5.0\Uc8_SearchPrsonDetailsAddressBook.genruntimeconfig.cache
