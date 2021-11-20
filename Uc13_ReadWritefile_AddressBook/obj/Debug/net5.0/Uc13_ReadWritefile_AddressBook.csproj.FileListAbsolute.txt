@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\bin\Debug\net5.0\Uc13_ReadWritefile_AddressBook.exe
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\bin\Debug\net5.0\Uc13_ReadWritefile_AddressBook.deps.json
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\bin\Debug\net5.0\Uc13_ReadWritefile_AddressBook.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\bin\Debug\net5.0\Uc13_ReadWritefile_AddressBook.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\bin\Debug\net5.0\Uc13_ReadWritefile_AddressBook.dll
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\bin\Debug\net5.0\ref\Uc13_ReadWritefile_AddressBook.dll
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\bin\Debug\net5.0\Uc13_ReadWritefile_AddressBook.pdb
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.dll
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\ref\Uc13_ReadWritefile_AddressBook.dll
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.pdb
+C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\obj\Debug\net5.0\Uc13_ReadWritefile_AddressBook.genruntimeconfig.cache

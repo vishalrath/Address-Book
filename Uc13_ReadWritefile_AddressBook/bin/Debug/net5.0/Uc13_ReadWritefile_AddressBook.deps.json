@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc13_ReadWritefile_AddressBook/1.0.0": {
+        "runtime": {
+          "Uc13_ReadWritefile_AddressBook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc13_ReadWritefile_AddressBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
