@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc9_AbilityToVeiw_PersonTocityAndState/1.0.0": {
+        "runtime": {
+          "Uc9_AbilityToVeiw_PersonTocityAndState.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc9_AbilityToVeiw_PersonTocityAndState/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
