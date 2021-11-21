@@ -145,7 +145,6 @@ namespace Uc13_ReadWritefile_AddressBook
         // create method call the list in Contact class using contact object 
         public static Contacts DuplicateEntry(List<Contacts> contactobj, String name)  //here find out search person
         {
-            //iteratingall elements in contact list by using for each loop
             //using contact obj of Contactact class 
 
             //using lambda expression and equals method
@@ -168,7 +167,7 @@ namespace Uc13_ReadWritefile_AddressBook
             //}
         }
 
-        public static Contacts SearchName(List<Contacts> contactobj, String name)  //here find out search city
+        public static Contacts SearchName(List<Contacts> contactobj, String name)  //here find out search Name
         {
             //using lambda expression and equals method
             // create  a person veriable is assign to contact obj
@@ -259,14 +258,8 @@ namespace Uc13_ReadWritefile_AddressBook
             }
         }
         public void ViewByCityName()
-        {
-            //Console.WriteLine("Please select your option: \n 1 :  To view all contacts by city, \n 2 : To view all contacts by state.");
-            //int choice = Convert.ToInt32(Console.ReadLine());
-
-            //if (choice == 1)
-            //{
+        { 
             int cityCount = cityBook.Count();
-            int StateCount = cityBook.Count();
             if (cityCount != 0)
             {
                 foreach (KeyValuePair<string, List<Contacts>> item in cityBook)
@@ -368,7 +361,7 @@ namespace Uc13_ReadWritefile_AddressBook
         public static void WriteAddressBookUsingStreamWriter()
         {
             //provide file path
-            string path = @"C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\AddressBookWriterFile.txt";
+            string path = @"C:\Users\Vishal\source\repos\Address Book\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\AddressBookWriteFile.txt";
             using (StreamWriter se = File.AppendText(path))
             {
                 //iterating each element from addressbook dictionary
@@ -397,7 +390,7 @@ namespace Uc13_ReadWritefile_AddressBook
         {
             Console.WriteLine("The contact List using StreamReader method ");
 
-            string path = @"C:\Users\Vishal\source\repos\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\AddressBookWriterFile.txt";
+            string path = @"C:\Users\Vishal\source\repos\Address Book\Uc13_ReadWritefile_AddressBook\Uc13_ReadWritefile_AddressBook\AddressBookWriteFile.txt";
             using (StreamReader se = File.OpenText(path))
             {
                 string s = " ";

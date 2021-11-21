@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vishal\\source\\repos\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook.csproj",
+      "projectUniqueName": "C:\\Users\\Vishal\\source\\repos\\Address Book\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook.csproj",
       "projectName": "Uc13_ReadWritefile_AddressBook",
-      "projectPath": "C:\\Users\\Vishal\\source\\repos\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook.csproj",
+      "projectPath": "C:\\Users\\Vishal\\source\\repos\\Address Book\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook.csproj",
       "packagesPath": "C:\\Users\\Vishal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vishal\\source\\repos\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook\\obj\\",
+      "outputPath": "C:\\Users\\Vishal\\source\\repos\\Address Book\\Uc13_ReadWritefile_AddressBook\\Uc13_ReadWritefile_AddressBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vishal\\AppData\\Roaming\\NuGet\\NuGet.Config",
