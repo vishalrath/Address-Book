@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc14_AddressBook_CSVFileOperation", "Uc14_AddressBook_CSVFileOperation\Uc14_AddressBook_CSVFileOperation.csproj", "{4CAE092E-6BD2-4C05-9483-7B6440939197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAE092E-6BD2-4C05-9483-7B6440939197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAE092E-6BD2-4C05-9483-7B6440939197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAE092E-6BD2-4C05-9483-7B6440939197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAE092E-6BD2-4C05-9483-7B6440939197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33754383-A348-43B0-BABC-D92DE5C59BAE}
+	EndGlobalSection
+EndGlobal
