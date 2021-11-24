@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQdjCQ7dIQDcnrhAvR9GZ+Cb2c2wSJLzREEt69f/MQKJkXz24K4JW2MARztM3aCpwScYCbA5xIjsLws3VShgGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vishal\\source\\repos\\Uc15_AddressBook_JSONFileOpration\\Uc15_AddressBook_JSONFileOpration\\Uc15_AddressBook_JSONFileOpration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vishal\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\Vishal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
